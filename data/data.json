@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Islam",
+    "totalLessons": 10,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "Maths",
+    "totalLessons": 12,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "ICT",
+    "totalLessons": 3,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "Tamil",
+    "totalLessons": 3,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "English Lit",
+    "totalLessons": 5,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "History",
+    "totalLessons": 2,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  },
+  {
+    "subject": "Science",
+    "totalLessons": 4,
+    "studiedLessons": 0,
+    "rank": "Rookie-0"
+  }
+]
