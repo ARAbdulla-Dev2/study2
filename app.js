@@ -78,4 +78,8 @@ fs.writeFile(dataFilePath, JSON.stringify(subjects, null, 2), (writeErr) => {
 });
 
 
-app.listen(3000, () => console.log('Server is running on http://localhost:3000'));
+let port = process.env.PORT || 3000;
+
+app.listen(port, () => {
+  console.log(`app running on ${port} `);
+});
